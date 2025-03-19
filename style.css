@@ -407,12 +407,12 @@ img{
   
   .prev-btn {
     left: 10px;
-    background-color: #000000;
+    background-color: #283593;
   }
   
   .next-btn {
     right: 10px;
-    background-color: #000000;
+    background-color: #283593;
   }
 
 .hero, .features, .slider-container, .footer, .faq-section, .contact{
