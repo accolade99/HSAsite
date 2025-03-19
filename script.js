@@ -87,4 +87,4 @@ nextBtn.addEventListener('click', nextSlide);
 prevBtn.addEventListener('click', prevSlide);
 
 // Automatically slide images every 3 seconds
-setInterval(nextSlide, 3000);
+setInterval(nextSlide, 5000);
